@@ -32,7 +32,7 @@ try:
 except:
     pass
 screen = pygame.display.set_mode((240, 240))
-pygame.display.set_caption('Frank the Tank')
+pygame.display.set_caption('reaghanpius')
 
 """this sets up the GPIO pins (GPIO.BOARD) to be used
 with a TB6612FNG motor controller as labeled"""
