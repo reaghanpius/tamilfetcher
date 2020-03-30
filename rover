@@ -260,10 +260,10 @@ def headLights(lights):
 MOVE_IT = {
     119: moveFwd,
     115: moveBack,
-    97: turnLeft,
-    100: turnRight,
-    113: pivotLeft,
-    101: pivotRight
+    113: turnLeft,
+    101: turnRight,
+    97: pivotLeft,
+    100: pivotRight
     }
 
 SPEED = {
