@@ -4,8 +4,7 @@
 via PS3 SIXAXIS or keyboard input. press <space> to
 toggle between PS3 SIXAXIS and keyboard. in keyboard
 mode, press <f> to toggle HEAD_LIGHTS, <c> to
-SNAP_PHOTO, <w> <a> <s> <d> for movement, <q> <e>
-to pivot, <1 - 9> sets speed of motors, or press <esc>
+SNAP_PHOTO, <w> <a> <s> <d> for movement, <1 - 9> sets speed of motors, or press <esc>
 at any time to exit program. raspicam is used for
 streaming video feed'''
 
